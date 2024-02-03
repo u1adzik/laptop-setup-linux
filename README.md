@@ -11,6 +11,7 @@ EndSection
 - `/etc/profile`
 ```
 export LIBGL_DRI3_DISABLE=1
+export MOZ_USE_XINPUT2=1
 ```
 
 
